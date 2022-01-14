@@ -4,9 +4,5 @@ def test ():
 test()
 test()
 
-def sdsd ():
-    print ("modify")
-
-sdsd()
-
 #bla bla
+
